@@ -1,0 +1,43 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class file
+*.class
+
+# Compiled JAR files
+*.jar
+
+# Compiled WAR files
+*.war
+
+# Compiled EAR files
+*.ear
+
+# Compiled binaries
+/target/
+bin/
+out/
+
+# Ignoring configuration files that may contain sensitive information
+.idea/workspace.xml
+.idea/encodings.xml
+.idea/misc.xml
+
+# Ignore Maven build directory
+target/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore NetBeans project files
+nb-configuration.xml
+
+# Logs
+*.log
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
